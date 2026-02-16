@@ -1,2 +1,13 @@
-# hackpad
-I want to build a macropad for digital art programs; Something with a few keys and maybe a little screen to see the control I'm on. One key to switch between settings for other controls (more usability with less space, so I don’t have to make something big). Keys for saving, new doc, ect. A knob would be useful for zooming in a certain percent.
+# Hackpad
+
+CAD Model
+
+<img width="820" height="700" alt="image" src="https://github.com/user-attachments/assets/13198cbc-faf5-4364-92e9-a6a9e47af8cd" />
+
+PCB 
+
+<img width="981" height="673" alt="image" src="https://github.com/user-attachments/assets/2d813b93-0404-4c6d-b4e9-5bdf36acbe7d" />
+
+<img width="780" height="805" alt="image" src="https://github.com/user-attachments/assets/308d58dd-733c-409f-8a36-cae1faa3b01a" />
+
+Bill of Materials
