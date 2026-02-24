@@ -1,5 +1,5 @@
 # Hackpad
-
+This is my hackpad! I intend to use it for art programs, to use for switching controls and file configuartions (saving, closing, etc). The top right button will change what the controls are used for, while the rest are the controls. The OLED will show what control scheme it is on. 
 ## CAD Model
 The model was designed within OnShape. I would've used SolidWorks as it is what I work with at school, but my home computer cannot run it well. However, I am happy with the design.
 
@@ -9,7 +9,7 @@ The model was designed within OnShape. I would've used SolidWorks as it is what 
 
 
 ## PCB 
-
+The PCB was designed within KiCad. 
 <img width="981" height="673" alt="image" src="https://github.com/user-attachments/assets/2d813b93-0404-4c6d-b4e9-5bdf36acbe7d" />
 
 <img width="780" height="805" alt="image" src="https://github.com/user-attachments/assets/308d58dd-733c-409f-8a36-cae1faa3b01a" />
