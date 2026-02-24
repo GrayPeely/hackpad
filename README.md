@@ -1,4 +1,8 @@
-# Hackpad
+# Gray's Art Hackpad
+
+<img width="678" height="607" alt="image" src="https://github.com/user-attachments/assets/dac5ce65-4cb2-490d-a69f-21697c4467fd" />
+
+
 This is my hackpad! I intend to use it for art programs, to use for switching controls and file configuartions (saving, closing, etc). The top right button will change what the controls are used for, while the rest are the controls. The OLED will show what control scheme it is on. 
 ## CAD Model
 The model was designed within OnShape. I would've used SolidWorks as it is what I work with at school, but my home computer cannot run it well. However, I am happy with the design.
