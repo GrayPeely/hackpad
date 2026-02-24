@@ -2,7 +2,7 @@
 
 CAD Model
 
-<img width="778" height="792" alt="image" src="https://github.com/user-attachments/assets/33a5cbc8-518e-4d41-81b3-d9d8131beeff" />
+<img width="500" height="508" alt="image" src="https://github.com/user-attachments/assets/33a5cbc8-518e-4d41-81b3-d9d8131beeff" />
 
 
 
