@@ -2,7 +2,9 @@
 
 CAD Model
 
-<img width="820" height="700" alt="image" src="https://github.com/user-attachments/assets/13198cbc-faf5-4364-92e9-a6a9e47af8cd" />
+<img width="778" height="792" alt="image" src="https://github.com/user-attachments/assets/33a5cbc8-518e-4d41-81b3-d9d8131beeff" />
+
+
 
 PCB 
 
