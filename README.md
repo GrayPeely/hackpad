@@ -23,6 +23,6 @@ The PCB was designed within KiCad.
  - 5x Keycaps
  - 1x XIAO RP2040
  - 1x 0.91 inch OLED Display
- - 4x M3x16mm Screws
+ - 4x M3x18mm Screws
  - 4x M3 Nuts
  - 1x Case (2 Printed Parts)
