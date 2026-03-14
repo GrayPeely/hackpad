@@ -1,4 +1,4 @@
-# Gray's Art Hackpad
+# Olo's Art Hackpad
 
 <img width="678" height="607" alt="image" src="https://github.com/user-attachments/assets/dac5ce65-4cb2-490d-a69f-21697c4467fd" />
 
