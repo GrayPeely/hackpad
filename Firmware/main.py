@@ -1,6 +1,10 @@
 print("Starting")
 
 import board
+import busio
+
+from kmk.extensions.display import Display, TextEntry, ImageEntry
+from kmk.extensions.display.ssd1306 import SSD1306
 
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.scanners.keypad import KeysScanner
@@ -24,6 +28,18 @@ keyboard.matrix = KeysScanner(
 keyboard.keymap = [
     [KC.A, KC.B, KC.C, KC.D]
 ]
+
+#oled testing
+i2c = busio.I2C(board.SCL, board.SDA)
+
+display = Display(
+    display=SSD1306()
+    entries=[
+        TextEntry(text='Olo Test 123'),
+    ],
+)
+
+keyboard.extensions.append(display)
 
 # Start kmk!
 if __name__ == '__main__':
