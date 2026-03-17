@@ -1,6 +1,7 @@
 # Olo's Art Hackpad
 
-<img width="678" height="607" alt="image" src="https://github.com/user-attachments/assets/dac5ce65-4cb2-490d-a69f-21697c4467fd" />
+<img width="1081" height="698" alt="image" src="https://github.com/user-attachments/assets/66bf9924-bb4a-4464-9a80-1a450a41b80f" />
+
 
 
 This is my hackpad! I intend to use it for art programs, to use for switching controls and file configuartions (saving, closing, etc). The top right button will change what the controls are used for, while the rest are the controls. The OLED will show what control scheme it is on. 
